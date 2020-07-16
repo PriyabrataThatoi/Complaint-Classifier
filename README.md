@@ -9,5 +9,5 @@ Solution: We leveraged topic algorithms such as TF-IDF and LDA to reclassify cus
 ![Text Classification](https://user-images.githubusercontent.com/54467567/87732510-cc99b700-c792-11ea-9d2d-12e660869cd4.png)
 
 
-Kaggle: https://www.kaggle.com/dhorvay/consumer-complaint-classifier-lda-topic-modeling
-Reference : https://towardsdatascience.com/https-medium-com-vishalmorde-humanizing-customer-complaints-using-nlp-algorithms-64a820cef373
+- Kaggle: https://www.kaggle.com/dhorvay/consumer-complaint-classifier-lda-topic-modeling
+- Reference : https://towardsdatascience.com/https-medium-com-vishalmorde-humanizing-customer-complaints-using-nlp-algorithms-64a820cef373
