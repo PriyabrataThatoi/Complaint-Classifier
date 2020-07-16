@@ -10,3 +10,4 @@ Solution: We leveraged topic algorithms such as TF-IDF and LDA to reclassify cus
 
 
 Kaggle: https://www.kaggle.com/dhorvay/consumer-complaint-classifier-lda-topic-modeling
+Reference : https://towardsdatascience.com/https-medium-com-vishalmorde-humanizing-customer-complaints-using-nlp-algorithms-64a820cef373
